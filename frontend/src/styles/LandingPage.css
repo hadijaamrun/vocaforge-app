@@ -1,0 +1,56 @@
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 70vh;
+  padding: 2rem 1rem;
+}
+
+.landing-title {
+  font-size: clamp(2.5rem, 5vw, 4rem); 
+  margin-bottom: 1rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 1.1;
+}
+
+.landing-desc {
+  font-size: 1.1rem;
+  color: var(--gray);
+  margin-bottom: 2.5rem;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+.landing-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap; 
+  justify-content: center;
+}
+
+.btn-primary-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.btn-outline {
+  padding: 0.8rem 1.5rem;
+  border: 1px solid var(--black);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--black);
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  background-color: var(--black);
+  color: var(--white);
+}
