@@ -27,18 +27,26 @@ VocaForge/
 │   ├── index.js
 │   └── seeder.js
 │
-└── frontend/
-    ├── public/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── pages/
+│   │   ├── styles/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   └── index.html
+│
+└── mobile-app/
+    ├── app/
+    │   ├── (tabs)/
+    │   └── edit/
     ├── src/
-    │   ├── assets/
-    │   ├── components/
-    │   ├── context/
-    │   ├── pages/
-    │   ├── styles/
-    │   ├── utils/
-    │   ├── App.jsx
-    │   └── main.jsx
-    └── index.html
+    │   └── utils/
+    └── app.json
 ```
 ## Fitur Utama
 Autentikasi: Sistem Login & Register.
