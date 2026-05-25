@@ -4,8 +4,12 @@ VocaForge adalah platform portofolio digital yang dirancang untuk siswa SMK Tekn
 
 ## Deployment
 Front-end: https://vocaforge-myskill.vercel.app/
+
 Back-end: https://vocaforge-backend.vercel.app/api/projects
-Mobile App: <img width="586" height="595" alt="Screenshot 2026-05-25 075506" src="https://github.com/user-attachments/assets/f4fd493c-943f-4288-8f5a-63840093d71b" />
+
+Mobile App:
+
+<img width="300" height="300" alt="Screenshot 2026-05-25 075506" src="https://github.com/user-attachments/assets/f4fd493c-943f-4288-8f5a-63840093d71b" />
 
 
 ## Struktur Proyek
