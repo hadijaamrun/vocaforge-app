@@ -75,3 +75,17 @@ coverage/
 .gradle/
 local.properties
 .sonar/
+
+# Folder yang diabaikan
+.claude/
+assets/image/
+components/
+constant/
+hooks/
+scripts/
+
+# File yang diabaikan
+AGENTS.md
+CLAUDE.md
+tsconfig.json
+eslint.config.js
