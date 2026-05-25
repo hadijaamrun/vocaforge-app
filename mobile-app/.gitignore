@@ -78,9 +78,9 @@ local.properties
 
 # Folder yang diabaikan
 .claude/
-assets/image/
+assets/images/
+constants/
 components/
-constant/
 hooks/
 scripts/
 
