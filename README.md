@@ -1,6 +1,6 @@
 ## VocaForge 
 
-VocaForge adalah platform portofolio digital yang dirancang untuk siswa SMK Teknik guna mendokumentasikan hasil praktek, tutorial perbaikan, dan proyek teknik secara terorganisir.
+VocaForge adalah platform portofolio digital yang dirancang untuk siswa SMK Teknik yang bertujuan untuk mendokumentasikan hasil praktek, tutorial perbaikan, dan proyek teknik secara terorganisir.
 
 ## Deployment
 Front-end: https://vocaforge-myskill.vercel.app/
@@ -51,9 +51,8 @@ VocaForge/
 ## Fitur Utama
 Autentikasi: Sistem Login & Register.
 
-Manajemen Karya (CRUD): Create, Read, Update, Delete data proyek.
+Manajemen Karya (CRUD): Create, Read, Update, Delete data content.
 
-Responsive: Mobile-first design & aplikasi Android native.
 
 ## Tech Stack
 Backend: Node.js, Express, MongoDB
